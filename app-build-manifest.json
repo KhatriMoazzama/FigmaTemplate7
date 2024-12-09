@@ -1,0 +1,64 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/chunks/app/_not-found/page-8bbcc3f4a364fe25.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/css/319baf223e0ceb75.css",
+      "static/chunks/app/layout-b07af527384b1fa7.js"
+    ],
+    "/carCard/page": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/chunks/878-4aae9dbacaff5bcf.js",
+      "static/chunks/972-43b29e83759c5425.js",
+      "static/chunks/app/carCard/page-e44a4e9c4c85aad2.js"
+    ],
+    "/carRent/page": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/chunks/878-4aae9dbacaff5bcf.js",
+      "static/chunks/972-43b29e83759c5425.js",
+      "static/chunks/312-bbaaa6450568cb6b.js",
+      "static/chunks/app/carRent/page-078b794643293665.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/chunks/878-4aae9dbacaff5bcf.js",
+      "static/chunks/972-43b29e83759c5425.js",
+      "static/chunks/app/page-c23bae0d066ae6e7.js"
+    ],
+    "/payment/page": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/chunks/878-4aae9dbacaff5bcf.js",
+      "static/chunks/972-43b29e83759c5425.js",
+      "static/chunks/app/payment/page-2d551f56985dcd3b.js"
+    ],
+    "/rentalDetails/page": [
+      "static/chunks/webpack-12ccc063a2928aa9.js",
+      "static/chunks/fd9d1056-2011c725e5320c89.js",
+      "static/chunks/117-0351db5e087c4c0a.js",
+      "static/chunks/main-app-497e90b3360fddec.js",
+      "static/chunks/878-4aae9dbacaff5bcf.js",
+      "static/chunks/app/rentalDetails/page-1f0f9eb0eb452c28.js"
+    ]
+  }
+}
